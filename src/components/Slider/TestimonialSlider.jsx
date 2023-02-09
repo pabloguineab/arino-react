@@ -17,7 +17,7 @@ export default function TestimonialSlider() {
       ratings: '4',
     },
     {
-      testimonialThumb: '/images/testimonial_2.jpeg',
+      testimonialThumb: '/images/testimonial3.jpg',
       testimonialText:
         'Im an engineering student and always struggle with report writing. yourprojects.ai made the process so much easier and quicker, I was able to focus on my studies and still get a great report.',
       avatarName: 'David',
@@ -33,10 +33,10 @@ export default function TestimonialSlider() {
       ratings: '4.5',
     },
     {
-      testimonialThumb: '/images/testimonial_1.jpeg',
+      testimonialThumb: '/images/testimonial_2.jpeg',
       testimonialText:
         'As a computer science student, I was always intimidated by report writing. yourprojects.ai made it so much easier and the report was ready in just a few clicks. Im grateful for this tool',
-      avatarName: 'Alex',
+      avatarName: 'Kate',
       avatarDesignation: 'Computer Science Student',
       ratings: '4.5',
     },
