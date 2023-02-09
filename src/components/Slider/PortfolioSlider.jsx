@@ -9,13 +9,13 @@ export default function PortfolioSlider() {
       title:'Science',
       subtitle:'See Details',
       href:'/portfolio/portfolio-details',
-      src:'/images/portfolio_1.jpeg'
+      src:'/images/portfolio_1.jpg'
     },
     {
       title:'Engineering',
       subtitle:'See Details',
       href:'/portfolio/portfolio-details',
-      src:'/images/portfolio_2.jpeg'
+      src:'/images/portfolio_2.jpg'
     },
     {
       title:'Business',
@@ -24,10 +24,10 @@ export default function PortfolioSlider() {
       src:'/images/portfolio_0.jpg'
     },
     {
-      title:'Medicine',
+      title:'Computer Science',
       subtitle:'See Details',
       href:'/portfolio/portfolio-details',
-      src:'/images/portfolio_3.jpeg'
+      src:'/images/portfolio_3.jpg'
     }
   ]
   
