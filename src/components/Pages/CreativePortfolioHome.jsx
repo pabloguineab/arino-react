@@ -72,7 +72,7 @@ export default function CreativePortfolioHome() {
       {/* Start Portfolio Section */}
       <Spacing lg="150" md="80" />
       {portfolioData.map((item, index) =>
-        index % 2 === 0 ? (
+        index % 0 === 0 ? (
           <Div key={index}>
             <Portfolio2
               title={item.title}
@@ -111,13 +111,13 @@ export default function CreativePortfolioHome() {
         <Spacing lg="90" md="45" />
       </Div>
       <CaseStudy
-        title="Analysis lead <br /> more efficiently"
+        title="The most accurate <br /> Academic Projects Generator."
         bgUrl="/images/case_study_2.jpeg"
         href="/case-study/case-study-details"
         variant="cs-style2"
       />
       <CaseStudy
-        title="Ubar food app <br /> case study"
+        title="Based on state-of-the-art AI writing models <br /> to generate Project Reports from just an Index"
         bgUrl="/images/case_study_1.jpeg"
         href="/case-study/case-study-details"
       />
