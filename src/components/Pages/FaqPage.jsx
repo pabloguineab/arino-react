@@ -16,9 +16,6 @@ export default function FaqPage() {
   return (
     <>
       <PageHeading
-          title="FAQ"
-          subtitle=""
-          variant="cs-style1 text-center"
       />
       <Spacing lg="150" md="40" />
       <Div className="container">
