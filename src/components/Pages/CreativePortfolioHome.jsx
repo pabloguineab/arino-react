@@ -60,7 +60,7 @@ export default function CreativePortfolioHome() {
       <Hero3
         title="Tell me about <br />Your Project"
         btnLink="contact"
-        btnText={`Get Quote`}
+        btnText={`Get Started`}
         socialLinksHeading="Follow Us"
         heroSocialLinks={heroSocialLinks}
         bgImageUrl="./images/hero_bg_4.jpeg"
