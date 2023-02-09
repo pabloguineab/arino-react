@@ -18,6 +18,11 @@ export default function FaqPage() {
       <PageHeading
       />
       <Spacing lg="150" md="40" />
+            <SectionHeading
+          title="FAQ"
+          subtitle=""
+          variant="cs-style1 text-center"
+        />
       <Div className="container">
         <Div className="row">
             <Spacing lg="0" md="40" />
