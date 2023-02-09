@@ -131,7 +131,7 @@ export default function Header({ variant }) {
           </Link>
           <Div className="cs-side_header_box">
             <h2 className="cs-side_header_heading">
-              Do you have a project in your <br /> mind? Keep connect us.
+              Generate Accurate & Quality Content in Just Seconds <br /> and get Full Marks This Course.
             </h2>
           </Div>
           <Div className="cs-side_header_box">
