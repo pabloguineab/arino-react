@@ -1,1 +1,1 @@
-# arino-react
+# yourproject.ai
