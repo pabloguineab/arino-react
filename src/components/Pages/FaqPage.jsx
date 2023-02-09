@@ -17,14 +17,11 @@ export default function FaqPage() {
     <>
       <PageHeading
       />
-      <Spacing lg="150" md="80" />
+      <Spacing lg="150" md="40" />
       <Div className="container">
         <Div className="row">
-
-          <Div className="col-lg-7 offset-lg-1">
             <Spacing lg="0" md="40" />
             <Accordion />
-          </Div>
         </Div>
       </Div>
       <Spacing lg="150" md="80" />
