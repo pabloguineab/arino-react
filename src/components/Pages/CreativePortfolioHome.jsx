@@ -33,7 +33,7 @@ export default function CreativePortfolioHome() {
       subtitle: '.doc',
       btnText: 'Download Word File',
       btnLink: '/portfolio/portfolio-details',
-      imageUrl: '/images/porfolio35.png',
+      imageUrl: '/images/porfolio35.PNG',
       category: 'Editable File',
     },
     {
@@ -41,7 +41,7 @@ export default function CreativePortfolioHome() {
       subtitle: '.pdf',
       btnText: 'Download PDF File',
       btnLink: '/portfolio/portfolio-details',
-      imageUrl: '/images/porfolio36.png',
+      imageUrl: '/images/porfolio36.PNG',
       category: 'PDF File',
     },
     {
@@ -49,7 +49,7 @@ export default function CreativePortfolioHome() {
       subtitle: '.pdf',
       btnText: 'Downlaod Pagiarism Report',
       btnLink: '/portfolio/portfolio-details',
-      imageUrl: '/images/porfolio37.png',
+      imageUrl: '/images/porfolio37.PNG',
       category: 'Plagiarism Checked',
     },
     
