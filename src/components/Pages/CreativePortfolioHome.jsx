@@ -29,7 +29,7 @@ export default function CreativePortfolioHome() {
   ];
   const portfolioData = [
     {
-      title: 'Project report in Microsoft Word (.doc) format. The file is fully editable, so you can make any necessary modifications or additions before submitting or presenting the report.',
+      title: 'Project report in Microsoft Word (.doc) format.',
       subtitle: '.doc',
       btnText: 'Download Word File',
       btnLink: '/portfolio/portfolio-details',
@@ -45,7 +45,7 @@ export default function CreativePortfolioHome() {
       category: 'PDF File',
     },
     {
-      title: 'Report that checks for any instances of plagiarism in the project report. This is especially useful for students or professionals who want to ensure the originality and authenticity of their work.',
+      title: 'Report that checks for any instances of plagiarism in the project report.',
       subtitle: '.pdf',
       btnText: 'Downlaod Pagiarism Report',
       btnLink: '/portfolio/portfolio-details',
@@ -54,7 +54,7 @@ export default function CreativePortfolioHome() {
     },
     
     {
-      title: 'List of all the sources cited in the project report, including books, articles, websites, and other materials. The bibliography is formatted according to the citation style specified by you and is an essential part of any academic or research report.',
+      title: 'List of all the sources cited in the project report, including books, articles, websites, ...',
       subtitle: '.doc',
       btnText: 'Downlaod References',
       btnLink: '/portfolio/portfolio-details',
