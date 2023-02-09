@@ -117,7 +117,7 @@ export default function CreativePortfolioHome() {
         variant="cs-style2"
       />
       <CaseStudy
-        title="Based on AI writing models to generate Project from just an Index"
+        title="Based on AI writing models to generate Projects from just an Index"
         bgUrl="/images/case_study_1.jpeg"
         href="/case-study/case-study-details"
       />
