@@ -72,7 +72,7 @@ export default function CreativePortfolioHome() {
       {/* Start Portfolio Section */}
       <Spacing lg="150" md="80" />
       {portfolioData.map((item, index) =>
-        index % 0 === 0 ? (
+        index % 2 === 0 ? (
           <Div key={index}>
             <Portfolio2
               title={item.title}
@@ -117,7 +117,7 @@ export default function CreativePortfolioHome() {
         variant="cs-style2"
       />
       <CaseStudy
-        title="Based on state-of-the-art AI writing models <br /> to generate Project Reports from just an Index"
+        title="Based on AI writing models to generate Project from just an Index"
         bgUrl="/images/case_study_1.jpeg"
         href="/case-study/case-study-details"
       />
