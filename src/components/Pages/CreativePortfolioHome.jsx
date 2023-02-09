@@ -53,14 +53,6 @@ export default function CreativePortfolioHome() {
       category: 'Plagiarism Checked',
     },
     
-    {
-      title: 'List of all the sources cited in the project report, including books, articles, websites, ...',
-      subtitle: '.doc',
-      btnText: 'Downlaod References',
-      btnLink: '/portfolio/portfolio-details',
-      imageUrl: '/images/portfolio_37.jpeg',
-      category: 'Reference File',
-    },
   ];
   return (
     <>
