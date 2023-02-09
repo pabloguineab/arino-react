@@ -58,9 +58,9 @@ export default function CreativePortfolioHome() {
     <>
       {/* Start Hero Section */}
       <Hero3
-        title="Arino Creative <br />Portfolio"
+        title="Tell me about <br />Your Project"
         btnLink="contact"
-        btnText={`Let's talk`}
+        btnText={`Get Quote`}
         socialLinksHeading="Follow Us"
         heroSocialLinks={heroSocialLinks}
         bgImageUrl="./images/hero_bg_4.jpeg"
