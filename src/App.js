@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import AboutPage from './components/Pages/AboutPage';
 import BlogPage from './components/Pages/BlogPage';
@@ -20,10 +21,16 @@ import CaseStudyShowcaseHome from './components/Pages/CaseStudyShowcaseHome';
 import Layout from './components/Layout';
 import CaseStudyDetailsPage from './components/Pages/CaseStudyDetailsPage';
 import FaqPage from './components/Pages/FaqPage';
+import StreamlitForm from "./StreamlitForm";
+import ShowFormButton from "./ShowFormButton";
 
 function App() {
+  const [showForm, setShowForm] = useState(false);
+
   return (
     <>
+      <ShowFormButton onClick={() => setShowForm(!showForm)} />
+      {showForm && <StreamlitForm />}
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -79,4 +86,7 @@ function App() {
 }
 
 export default App;
+
+
+
 
