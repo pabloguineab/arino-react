@@ -59,7 +59,7 @@ export default function CreativePortfolioHome() {
       {/* Start Hero Section */}
       <Hero3
         title="Tell me about <br />Your Project"
-        btnLink="https://pabloguineab-genpdf-streamlit-app-o4rtfm.streamlit.app/"
+        btnLink="/streamlit"
         btnText={`Get Started`}
         socialLinksHeading="Follow Us"
         heroSocialLinks={heroSocialLinks}
