@@ -11,6 +11,7 @@ import SectionHeading from '../SectionHeading';
 import TestimonialSlider from '../Slider/TestimonialSlider';
 import Spacing from '../Spacing';
 import { pageTitle } from '../../helper';
+import StreamlitApp from '../Portfolio/StreamlitApp';
 
 export default function CreativePortfolioHome() {
   pageTitle('Creative Portfolio');
