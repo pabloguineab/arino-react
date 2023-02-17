@@ -67,7 +67,12 @@ export default function CreativePortfolioHome() {
         bgImageUrl="./images/hero_bg_4.jpeg"
       />
 
-
+      <iframe
+      title="Streamlit App"
+      src="https://<streamlit-app-url>"
+      width="100%"
+      height="800"
+      />
       {/* End Hero Section */}
 
       {/* Start Portfolio Section */}
