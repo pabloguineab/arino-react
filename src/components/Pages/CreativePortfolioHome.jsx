@@ -61,11 +61,12 @@ export default function CreativePortfolioHome() {
         title="Tell me about <br />Your Project"
         btnLink="/streamlit"
         btnText={`Get Started`}
+        src="https://pabloguineab-genpdf-streamlit-app-o4rtfm.streamlit.app/"
         socialLinksHeading="Follow Us"
         heroSocialLinks={heroSocialLinks}
         bgImageUrl="./images/hero_bg_4.jpeg"
       />
-       
+
 
       {/* End Hero Section */}
 
